@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    background: #f8f9fa;
+}
+#game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 70%;
+    margin: 250px auto;
+    background: #fefefe;
+}
+.point {
+    position: relative;
+    background: red;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+}
