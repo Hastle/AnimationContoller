@@ -4,9 +4,9 @@ body {
     background: #f8f9fa;
 }
 #game-container {
-    display: flex;
+/*    display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;*/
     height: 400px;
     width: 70%;
     margin: 250px auto;
