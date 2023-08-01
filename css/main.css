@@ -12,10 +12,14 @@ body {
     margin: 250px auto;
     background: #fefefe;
 }
-.point {
+.point, .point1 {
     position: relative;
+    display: inline-flex;
     background: red;
     height: 10px;
     width: 10px;
     border-radius: 50%;
+}
+.point1 {
+    background: green;
 }
